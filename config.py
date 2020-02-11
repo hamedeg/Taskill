@@ -1,2 +1,2 @@
 AdDomain = 'default' ## Active Directory domain
-AdAdmin = 'default' ## Active Directory administraror
+AdAdmin = 'default' ## Active Directory administrator
